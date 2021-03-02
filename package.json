@@ -1,0 +1,17 @@
+{
+  "name": "dad_joke_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ],
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.32.8"
+  }
+}
